@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "sky": {
+            "name": "Materialize Dark",
+            "repo": "https://github.com/pawell0/materialize-dark/tree/master",
+            "zip": "https://github.com/pawell0/materialize-dark/archive/master.zip",
+            "summary": "Materialize Dark theme for Wonder CMS.",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/pawell0/materialize-dark/master/preview.jpg"
+        }
+    }
+}
