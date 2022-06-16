@@ -39,6 +39,10 @@ The theme is not compatible with the following plugins:
 * [Social Bar 3.2.1](https://github.com/robiso/social-bar/blob/master/version)
 * [Contact Form 3.0.1](https://github.com/robiso/contact-form/tree/master)
 
+## How to + Tips and Tricks
+
+Visit the website [Materialize WCMS](https://materialize-wcms.m00n.link) for informations how to use this theme and for tips and tricks for faster content editing.
+
 ## Preview
 
 ![preview.jpg](preview.jpg)
@@ -90,6 +94,10 @@ Motyw nie jest kompatybilny z następującymi wtyczkami:
 * [Summernote Air Editor 3.2.0](https://github.com/robiso/summernote-air-editor/tree/master)
 * [Social Bar 3.2.1](https://github.com/robiso/social-bar/blob/master/version)
 * [Contact Form 3.0.1](https://github.com/robiso/contact-form/tree/master)
+
+## Jak używać oraz Wskazówki i Triki
+
+Odwiedź stronę internetową [Materialize WCMS](https://materialize-wcms.m00n.link), aby dowiedzieć się, jak używać tego motywu oraz poznać wskazówki i porady dotyczące szybszej edycji treści.
 
 ## Podgląd
 
