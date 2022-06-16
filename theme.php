@@ -71,11 +71,11 @@ Made using:
 
         <footer class="page-footer">
             <div class="container">
-                <div class="row">
-                    <div class="col s12 l6"><br><br>
+                <div class="row"><br><br>
+                    <div class="col s12 l6">
                         <?= $Wcms->block('subside') ?>
                     </div>
-                    <div class="col s12 l6"><br><br>
+                    <div class="col s12 l6">
                         <h5>Menu</h5><!-- Tytuł -->
                         <ul class="footer-menu">
                             <?= $Wcms->menu() ?>
