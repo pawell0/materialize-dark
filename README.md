@@ -12,7 +12,7 @@ Made using:
 
 ## About
 
-Wonder CMS Materialize Dark theme is a theme for Wonder CMS, based on [Materialize CSS](https://materializecss.com) framework.
+Materialize Dark theme is a theme for Wonder CMS, based on [Materialize CSS](https://materializecss.com) framework.
 
 
 The theme is designed to be used with the following plugins:
