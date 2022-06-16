@@ -97,7 +97,7 @@ Motyw nie jest kompatybilny z następującymi wtyczkami:
 
 ## Jak używać oraz Wskazówki i Triki
 
-Odwiedź stronę internetową [Materialize WCMS](https://materialize-wcms.m00n.link), aby dowiedzieć się, jak używać tego motywu oraz poznać wskazówki i porady dotyczące szybszej edycji treści.
+Odwiedź stronę internetową [Materialize WCMS](https://materialize-wcms.m00n.link), aby dowiedzieć się, jak używać tego motywu oraz poznać wskazówki i porady dotyczące szybszej edycji treści (witryna w języku angielskim).
 
 ## Podgląd
 
