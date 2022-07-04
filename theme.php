@@ -1,15 +1,14 @@
-<!-- Materialize Dark theme for Wonder CMS
-Author: © Paweł Krużel - https://pawelkruzel.m00n.link, Github: @pawell0
-Made using:
-- Materialize CSS framework (https://materializecss.com) - MIT licence - © 2014-2017 Materialize - https://github.com/Dogfalo/materialize/blob/master/LICENSE
-- jQuery (https://jquery.com) - licencja MIT - © JS Foundation - https://github.com/jquery/jquery/blob/main/LICENSE.txt
-- Scout App - https://scout-app.io
-- Coded using Brackets - https://brackets.io -->
-
 <?php global $Wcms ?>
 
 <!DOCTYPE html>
-<html lang=en>
+<!-- Materialize Dark theme for Wonder CMS
+Author: © Paweł Krużel - https://pawelkruzel.m00n.link, Github: @pawell0
+Made using:
+- Materialize CSS framework (https://materializecss.com) - MIT licence - 2014-2017 Materialize - https://github.com/Dogfalo/materialize/blob/master/LICENSE
+- jQuery (https://jquery.com) - licencja MIT - JS Foundation - https://github.com/jquery/jquery/blob/main/LICENSE.txt
+- Scout App - https://scout-app.io
+- Coded using Brackets - https://brackets.io -->
+<html lang="en">
     <head>
         <!-- Encoding, browser compatibility, viewport -->
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
