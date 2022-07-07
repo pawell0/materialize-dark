@@ -18,6 +18,7 @@ Materialize Dark theme is a theme for Wonder CMS, based on [Materialize CSS](htt
 The theme is designed to be used with the following plugins:
 
 * [Additional Contents Lite 1.0.0](https://github.com/pawell0/additional-contents-lite)
+* [Summernote Editor Lite 1.0.5](https://github.com/pawell0/summernote-editor-lite)
 
 ## Compatibility
 
@@ -74,6 +75,7 @@ Materialize Dark jest motywem dla Wonder CMS, opartym na frameworku [Materialize
 Motyw jest przeznaczony do użycia z następującymi wtyczkami:
 
 * [Additional Contents Lite 1.0.0](https://github.com/pawell0/additional-contents-lite)
+* [Summernote Editor Lite 1.0.5](https://github.com/pawell0/summernote-editor-lite)
 
 ## Kompatybilność
 
