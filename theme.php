@@ -20,7 +20,7 @@ Author - Paweł Krużel - https://pawelkruzel.m00n.link, Github: @pawell0 ||| Ma
         <meta property="og:url" content="<?= $this->getCurrentPageUrl() ?>" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="<?= $Wcms->get('config', 'siteTitle') ?>" />
-        <meta property="og:title" content="<?= $Wcms->page('title') ?>" />
+        <meta property="og:title" content="<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>" />
         <meta name="twitter:site" content="<?= $this->getCurrentPageUrl() ?>" />
         <meta name="twitter:title" content="<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>" />
         <meta name="twitter:description" content="<?= $Wcms->page('description') ?>" />
