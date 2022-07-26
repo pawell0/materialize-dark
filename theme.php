@@ -15,11 +15,13 @@ Author - Paweł Krużel - https://pawelkruzel.m00n.link, Github: @pawell0 ||| Ma
         <meta name="apple-mobile-web-app-title" content="<?= $Wcms->get('config', 'siteTitle') ?>">
         <meta name="description" content="<?= $Wcms->page('description') ?>">
         <meta name="keywords" content="<?= $Wcms->page('keywords') ?>">
-        <meta property="og:url" content="<?= $this->url() ?>" />
+        <meta property="og:image" content="<?= $Wcms->url() ?>data/files/open-graph-logo.jpg" />
+        <meta property="og:description" content="<?= $Wcms->page('description') ?>" />
+        <meta property="og:url" content="<?= $this->getCurrentPageUrl() ?>" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="<?= $Wcms->get('config', 'siteTitle') ?>" />
         <meta property="og:title" content="<?= $Wcms->page('title') ?>" />
-        <meta name="twitter:site" content="<?= $this->url() ?>" />
+        <meta name="twitter:site" content="<?= $this->getCurrentPageUrl() ?>" />
         <meta name="twitter:title" content="<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>" />
         <meta name="twitter:description" content="<?= $Wcms->page('description') ?>" />
 
